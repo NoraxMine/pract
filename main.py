@@ -9,7 +9,7 @@ def main():
         user_temp = input("")
         user_temp  = user_temp.split()
         a,b = int(user_temp[0]),int(user_temp[1])
-        print("", e = ek.gcd(a, b))
+        print("", ek.gcd(a, b))
     elif user_choes.lower() == "k" :
          print("", ex.spis())   
     else:
