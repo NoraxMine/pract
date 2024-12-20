@@ -1,6 +1,6 @@
-import Euclid as ek
-import exchanges as ex
-import Pascal as ps 
+from new import Euclid as ek
+from new import exchanges as ex
+from new import Pascal as ps 
 
 
 def main():
